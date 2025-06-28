@@ -2,8 +2,8 @@
 export default function Home() {
   return (
     <div style={{ padding: 40 }}>
-      <h1>Bem-vindo ao sistema Espaço Sorriso</h1>
-      <p>Use o menu lateral para acessar agenda, pacientes, financeiro e mais.</p>
+      <h1>Bem-vindo ao Sistema Espaço Sorriso</h1>
+      <p>Login, Agenda, Financeiro, Odontograma e mais já estão em construção interna.</p>
     </div>
   );
 }

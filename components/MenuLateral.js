@@ -1,1 +1,1 @@
-// Menu lateral com abas Agenda, Pacientes, Financeiro
+// Menu lateral com abas

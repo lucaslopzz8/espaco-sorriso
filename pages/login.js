@@ -1,1 +1,1 @@
-// Tela de login com controle de acesso
+// Tela de login com supabase

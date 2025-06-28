@@ -1,1 +1,1 @@
-// Agenda com cores, integração com WhatsApp
+// Componente da agenda de pacientes

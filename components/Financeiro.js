@@ -1,1 +1,1 @@
-// Painel financeiro com ASAAS
+// Painel financeiro

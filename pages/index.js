@@ -1,1 +1,1 @@
-// Página principal da clínica Espaço Sorriso
+// Página inicial do painel

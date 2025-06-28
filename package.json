@@ -1,6 +1,6 @@
 
 {
-  "name": "espaco-sorriso-completo",
+  "name": "espaco-sorriso-corrigido",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",

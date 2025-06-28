@@ -1,1 +1,0 @@
-// Funções de integração com Supabase e ASAAS

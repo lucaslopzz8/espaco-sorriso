@@ -17,7 +17,7 @@ export default function Login() {
     if (error) {
       setErro('Email ou senha incorretos');
     } else {
-      window.location.href = '/';
+      window.location.href = '/agenda';
     }
   };
 
